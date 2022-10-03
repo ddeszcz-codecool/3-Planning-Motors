@@ -1,2 +1,2 @@
-public class ElectricMotor extends Engine{
+public class ElectricMotor extends Motor{
 }
