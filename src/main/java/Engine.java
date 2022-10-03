@@ -1,2 +1,2 @@
-public class Engine {
+public class Engine extends Motor{
 }
