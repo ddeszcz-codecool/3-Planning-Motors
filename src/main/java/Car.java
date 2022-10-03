@@ -1,3 +1,4 @@
 public class Car {
-    Engine engine;
+    Motor motor;
+    Battery battery;
 }
