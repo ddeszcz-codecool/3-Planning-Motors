@@ -1,6 +1,7 @@
 public class ElectricCar extends Car implements Rechargeable{
-    public ElectricCar(ElectricMotor motor1, Battery battery) {
-        super(motor1, battery);
+    private ElectricMotor electricMotor;
+    public ElectricCar(ElectricMotor electricMotor, Battery battery) {
+        super(electricMotor, battery);
     }
 
     @Override
