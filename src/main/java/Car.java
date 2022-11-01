@@ -1,11 +1,11 @@
 public class Car {
-    Motor motor;
-    Battery battery;
-    Car (Motor motor, Battery battery){
+    private Motor motor;
+    private Battery battery;
+    public Car (Motor motor, Battery battery){
+        this.motor = motor;
+        this.battery = battery;
+
 
     }
 
-    Car(){
-
-    }
 }
