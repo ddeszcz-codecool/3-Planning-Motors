@@ -4,4 +4,8 @@ public class Car {
     Car (Motor motor, Battery battery){
 
     }
+
+    Car(){
+
+    }
 }
