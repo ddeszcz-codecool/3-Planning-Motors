@@ -1,2 +1,2 @@
-public class Battery {
+public abstract class Battery {
 }
