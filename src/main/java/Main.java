@@ -3,6 +3,8 @@ public class Main {
 
         Car car2 = new Car(new ElectricMotor(), new Battery());
 
+        System.out.println("sfsdfsd");
+
 
     }
 }
